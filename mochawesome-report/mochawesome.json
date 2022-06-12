@@ -1,0 +1,23 @@
+{
+  "stats": {
+    "suites": 0,
+    "tests": 0,
+    "passes": 0,
+    "pending": 0,
+    "failures": 0,
+    "start": "2022-05-22T05:47:01.426Z",
+    "end": "2022-05-22T05:47:01.427Z",
+    "duration": 1,
+    "testsRegistered": 0,
+    "passPercent": null,
+    "pendingPercent": null,
+    "other": 0,
+    "hasOther": false,
+    "skipped": 0,
+    "hasSkipped": false,
+    "passPercentClass": "success",
+    "pendingPercentClass": "success"
+  },
+  "suites": false,
+  "copyrightYear": 2022
+}

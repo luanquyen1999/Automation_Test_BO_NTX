@@ -1,0 +1,84 @@
+{
+    "correctCredentials":{
+        "username":"0948178476",
+        "passwword":"Qt*10081999"   
+    },
+    "passphonenullpassword":{
+        "username":"0948178476",
+        "passwword":""      
+    },
+    "NullUserPassword":{
+        "username":"",
+        "passwword":"Qt*10081999"      
+    },
+    "Nullphonepassword":{
+        "username":"",
+        "passwword":""      
+    },
+    "errphonepasspassword":{
+        "username":"09435",
+        "passwword":"Qt*10081999"      
+    },
+    "passphoneerrpassword":{
+        "username":"0948178476",
+        "passwword":"Qt*10081999/"      
+    },
+    "phonefalse":{
+        "username":"0948784e/",
+        "passwword":"Qt*10081999"      
+    },
+    "accountnotregister":{
+        "username":"0948178479",
+        "passwword":"Qt*10081988"      
+    },
+    "send":{
+        "clearsendname": "1112323",
+        "sendname":"qưewqeqw",
+        "sendnumber" : "12313123",
+        "sendprovince" : "Hồ Chí Minh",
+        "senddistrict" : "Quận 1",
+        "sendward" : "Phường Bến Nghé 1"
+    },
+    "creatBill":{
+        "consignors":"Trần Luân Quyền demo automate",
+        "Phoneconsignors":"0948178476",
+        "address1":"108, Cộng Hòa, Quận Tân Bình, Phường 4, TP.HCM",
+        "province1": "Hồ",
+        "district1":"Quận t",
+        "ward1":"phường",
+        "receiver" : "John Wick",
+        "phonereceiver": "0945687456",
+        "address2":"88, đường 72, Quận Tây Hồ, phường Từ liêm, TP.Hà Nội",
+        "province2": "hà",
+        "district2":"Quận t",
+        "ward2":"phường t",
+        "weight": "5",
+        "quantity":"2",
+        "COD":"500000",
+        "item_value":"5000000",
+        "length":"50",
+        "width":"22",
+        "height":"30",
+        "weighterr": "5e",
+        "quantityer":"5r",
+        "CODerr":"5000r0",
+        "item_value_err":"ádfgg5",
+        "lengtherr":"50",
+        "widtherr":"2r2",
+        "heighterr":"30",
+        "notebill":" demo Automation Test"
+    },
+    "CreateAddress":{
+        "nameC" : "Trần Văn Quang",
+        "remineNameC" : "QuangTV",
+        "phoneC" : "0948576652",
+        "addessC" : "113, Hai Bà Trưng, Quận 5, Phường 6, TP.HCM",
+        "nameR" : "Nguyễn Phú Quý",
+        "remineNameR" : "QuýNP",
+        "phoneR" : "0957458620",
+        "addessR" : "16 P. Nguyên Khiết, Phúc Tân, Hoàn Kiếm, Hà Nội, Vietnam"
+    },
+    "CreateRequest":{
+        "Bill" : "E662986704"
+    }
+}
